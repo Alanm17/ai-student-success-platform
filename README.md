@@ -1,6 +1,8 @@
-# 🎓 AI Student Success System
+# 🎓 EduPath AI | Smart Student Success Platform & AI Academic Advisor
 
-> A full-stack academic intelligence platform that fundamentally rethinks how universities support their students by combining AI-driven scheduling, predictive risk analytics, and mandatory professor-to-student care assignments.
+**[🔥 Try EduPath AI Live Here](https://edupathai.app/)**
+
+> EduPath AI is a full-stack academic intelligence platform that fundamentally rethinks how universities support their students by combining AI-driven scheduling, predictive risk analytics, and mandatory professor-to-student care assignments.
 
 ---
 
@@ -9,13 +11,13 @@
 This project was born out of real, lived experience as a student who is now graduating. Throughout my years at university, I personally felt the pain of problems that no existing university system even tries to solve:
 
 **1. No Real Advisor for Life Balance.**
-As a student working a part-time job, I desperately needed something anything to help me figure out how to split my time between classes, work shifts, studying, and actually living my life. Every semester felt like guessing. There was no tool that could look at my class schedule, my work hours, and my sleep needs, and tell me: *"Here's a realistic weekly plan that won't burn you out."*
+As a student working a part-time job, I desperately needed something — anything — to help me figure out how to split my time between classes, work shifts, studying, and actually living my life. Every semester felt like guessing. There was no tool that could look at my class schedule, my work hours, and my sleep needs, and tell me: *"Here's a realistic weekly plan that won't burn you out."*
 
 **2. Blind Course Registration.**
 Universities let students pick courses from a catalog with zero awareness of their actual academic background. If a student has been struggling with C Programming, they should **not** be blindly registering for an advanced Algorithms class. But nobody checks. Nobody warns them. Students just walk into failure.
 
 **3. Professors Only See Exam Grades.**
-In every university I've seen, professors interact with students through exactly two data points: the midterm grade and the final exam grade. They never know and rarely ask what's actually happening in a student's life. Are they missing classes because of a job? Are they failing because they never had the prerequisite knowledge? The grading system is completely disconnected from the human reality.
+In every university I've seen, professors interact with students through exactly two data points: the midterm grade and the final exam grade. They never know — and rarely ask — what's actually happening in a student's life. Are they missing classes because of a job? Are they failing because they never had the prerequisite knowledge? The grading system is completely disconnected from the human reality.
 
 **4. Universities Lack Real Student Data.**
 There is no structured system that tracks a student's study habits, absences, past failures, and risk factors in one place, and then *acts* on that data. It's all fragmented across different offices that never talk to each other.
@@ -212,6 +214,8 @@ The system is designed for a modern split-stack deployment:
 **3. Database & Auth (Supabase)**
 - Hosted on Supabase Cloud.
 - Handles PostgreSQL storage, JWT authentication, and Row Level Security (RLS).
+
+---
 
 ## 🔒 Security
 - All API keys loaded from environment variables via `os.getenv()` and `import.meta.env`
