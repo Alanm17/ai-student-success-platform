@@ -9,7 +9,7 @@
 This project was born out of real, lived experience as a student who is now graduating. Throughout my years at university, I personally felt the pain of problems that no existing university system even tries to solve:
 
 **1. No Real Advisor for Life Balance.**
-As a student working a part-time job, I desperately needed something — anything — to help me figure out how to split my time between classes, work shifts, studying, and actually living my life. Every semester felt like guessing. There was no tool that could look at my class schedule, my work hours, and my sleep needs, and tell me: *"Here's a realistic weekly plan that won't burn you out."*
+As a student working a part-time job, I desperately needed something anything to help me figure out how to split my time between classes, work shifts, studying, and actually living my life. Every semester felt like guessing. There was no tool that could look at my class schedule, my work hours, and my sleep needs, and tell me: *"Here's a realistic weekly plan that won't burn you out."*
 
 **2. Blind Course Registration.**
 Universities let students pick courses from a catalog with zero awareness of their actual academic background. If a student has been struggling with C Programming, they should **not** be blindly registering for an advanced Algorithms class. But nobody checks. Nobody warns them. Students just walk into failure.
