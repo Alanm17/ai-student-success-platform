@@ -15,7 +15,7 @@ As a student working a part-time job, I desperately needed something anything to
 Universities let students pick courses from a catalog with zero awareness of their actual academic background. If a student has been struggling with C Programming, they should **not** be blindly registering for an advanced Algorithms class. But nobody checks. Nobody warns them. Students just walk into failure.
 
 **3. Professors Only See Exam Grades.**
-In every university I've seen, professors interact with students through exactly two data points: the midterm grade and the final exam grade. They never know — and rarely ask — what's actually happening in a student's life. Are they missing classes because of a job? Are they failing because they never had the prerequisite knowledge? The grading system is completely disconnected from the human reality.
+In every university I've seen, professors interact with students through exactly two data points: the midterm grade and the final exam grade. They never know and rarely ask what's actually happening in a student's life. Are they missing classes because of a job? Are they failing because they never had the prerequisite knowledge? The grading system is completely disconnected from the human reality.
 
 **4. Universities Lack Real Student Data.**
 There is no structured system that tracks a student's study habits, absences, past failures, and risk factors in one place, and then *acts* on that data. It's all fragmented across different offices that never talk to each other.
